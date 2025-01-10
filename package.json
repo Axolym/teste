@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "@astrojs/cloudflare": "^12.1.0",
-    "astro": "^5.1.5"
+    "astro": "^5.1.5",
+    "teste": "file:"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20250109.0",
